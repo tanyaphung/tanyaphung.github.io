@@ -18,22 +18,21 @@ Research Experience
 ======
 
 **University of California, Los Angeles, Los Angeles, CA**
-   2017-Present	Developing an Approximate Bayesian Computational framework to infer the genetic architecture of human complex traits using summary statistics from genome-wide association studies
-   2016-2018	Analyzing genetic diversity on the X chromosome and autosomes to determine whether the demographic history of canines has been sex-biased using whole-genome sequence
-   2015-2017	Developing a likelihood-based approach to understand whether the process of recombination is mutagenic
-   2014-2016	Assessing whether natural selection has reduced neutral divergence at linked sites
+* 2017-Present	Developing an Approximate Bayesian Computational framework to infer the genetic architecture of human complex traits using summary statistics from genome-wide association studies
+* 2016-2018	Analyzing genetic diversity on the X chromosome and autosomes to determine whether the demographic history of canines has been sex-biased using whole-genome sequence
+* 2015-2017	Developing a likelihood-based approach to understand whether the process of recombination is mutagenic
+* 2014-2016	Assessing whether natural selection has reduced neutral divergence at linked sites
 
 **Vertex Pharmaceutical, Boston, MA**
-   2017	Designing a graphical user interphase using RShiny to detect CRISPR mediated insertions and deletions
+* 2017	Designing a graphical user interphase using RShiny to detect CRISPR mediated insertions and deletions
 
 **Massachusetts Institute of Technology, Cambridge, MA**
-   2013-2014	Investigating amino acid residues that contribute to the specific interaction between the bacterial toxin and antitoxin proteins
-   2012-2013	Conducting microbiology experiments to identify and validate that DnaN, a replicative beta clamp, to be the cellular target of a bacterial toxin protein, SocB
-   2011-2012	Conducting swelling experiments to test the swelling property of hydrogels made with different molecular weights.
+* 2013-2014	Investigating amino acid residues that contribute to the specific interaction between the bacterial toxin and antitoxin proteins
+* 2012-2013	Conducting microbiology experiments to identify and validate that DnaN, a replicative beta clamp, to be the cellular target of a bacterial toxin protein, SocB
+* 2011-2012	Conducting swelling experiments to test the swelling property of hydrogels made with different molecular weights.
 
 **National Institute of Health, Bethesda, MD**
-   2010-2011	Examining the effects of a tumor suppressor gene, CASZ1, on the cell cycle progression.
-
+* 2010-2011	Examining the effects of a tumor suppressor gene, CASZ1, on the cell cycle progression.
 
 Publications
 ======
@@ -47,23 +46,23 @@ Publications
 
 Fellowship
 ======
-   2017		UCLA Biomedical Big Data Training Program Fellowship ($24,000 awarded)
-   2016		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
-   2015		Honorable Mention Ford Foundation Predoctoral Fellowship 
-   2015 		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
+* 2017		UCLA Biomedical Big Data Training Program Fellowship ($24,000 awarded)
+* 2016		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
+* 2015		Honorable Mention Ford Foundation Predoctoral Fellowship 
+* 2015 		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
 
 Talks
 ======
-7. **Phung TN**, Pasaniuc B, Lohmuller KE. Inference of the mutational size supports the omnigenic model for complex trait. Selected talk at Probabilistic Modelling in Genomics 2018. Cold Spring Harbor, NY, November 2018
+7. Phung TN, Pasaniuc B, Lohmuller KE. Inference of the mutational size supports the omnigenic model for complex trait. Selected talk at Probabilistic Modelling in Genomics 2018. Cold Spring Harbor, NY, November 2018
  
-6. **Phung TN**, Wilson Sayres MA, Lohmueller KE. Comparing genomic patterns of diversity on the X chromosome versus autosomes in dogs. Selected talk at Evolutionary Genomics of Sex 2016. Tempe, AZ, November 2016. 
+6. Phung TN, Wilson Sayres MA, Lohmueller KE. Comparing genomic patterns of diversity on the X chromosome versus autosomes in dogs. Selected talk at Evolutionary Genomics of Sex 2016. Tempe, AZ, November 2016. 
 
-5. **Phung TN**, Huber CD, Lohmueller KE. Detecting mutagenic recombination using genome-wide divergence data. Computational Genomics Summer Institute, Los Angeles, CA, July 2016.
+5. Phung TN, Huber CD, Lohmueller KE. Detecting mutagenic recombination using genome-wide divergence data. Computational Genomics Summer Institute, Los Angeles, CA, July 2016.
 
-4. **Phung TN**, Huber CD, Lohmueller KE. Examining the effects of natural selection on linked neutral divergence. Selected talk at The Allied Genetics Conference 2018. Orlando, FL, July 2016.
+4. Phung TN, Huber CD, Lohmueller KE. Examining the effects of natural selection on linked neutral divergence. Selected talk at The Allied Genetics Conference 2018. Orlando, FL, July 2016.
 
-3. **Phung TN**, Huber CD, Lohmueller KE. A method to detect mutagenic recombination using genome-wide divergence data. Interdepartmental Ph.D. Program in Bioinformatics Retreat. Big Bear Lake, CA, May 2016.
+3. Phung TN, Huber CD, Lohmueller KE. A method to detect mutagenic recombination using genome-wide divergence data. Interdepartmental Ph.D. Program in Bioinformatics Retreat. Big Bear Lake, CA, May 2016.
 
-2. **Phung TN**, Huber CD, Lohmueller KE. Why is genetic variation positively correlated with recombination? Interdepartmental Ph.D. Program in Bioinformatics Retreat. Catalina, CA, May 2015.
+2. Phung TN, Huber CD, Lohmueller KE. Why is genetic variation positively correlated with recombination? Interdepartmental Ph.D. Program in Bioinformatics Retreat. Catalina, CA, May 2015.
 
-1. **Phung TN**, Aakre C, Laub M. A novel type II toxin-antitoxin system in Caulobacter crescentus blocks replication progression through a direct interaction with DnaN. Selected plenary talk at National Collegiate Research Conference 2013. Cambridge, MA, January 2013. 
+1. Phung TN, Aakre C, Laub M. A novel type II toxin-antitoxin system in Caulobacter crescentus blocks replication progression through a direct interaction with DnaN. Selected plenary talk at National Collegiate Research Conference 2013. Cambridge, MA, January 2013. 
