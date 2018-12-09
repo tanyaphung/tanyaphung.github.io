@@ -1,5 +1,8 @@
 ---
+layout: archive
 title: "Research interest"
+permalink: /research/
+author_profile: true
 ---
 
-The general interest of my research is to leverage the availability of large-scale genomic dataset to study genetic variation.
+I am interested in using large scale genomic data to study genetic variation.
