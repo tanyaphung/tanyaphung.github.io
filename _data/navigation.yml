@@ -4,3 +4,6 @@ main:
     url: /research/
   - title: "CV"
     url: /cv/
+  - title: "Coding portfolio"
+    url: /portfolio/
+  
