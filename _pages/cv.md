@@ -16,9 +16,11 @@ Education
 
 Research Experience
 ======
+**Arizona State University, Tempe, AZ**
+* 2019-Present Analyzing next-generation DNA and RNA sequence data
 
 **University of California, Los Angeles, Los Angeles, CA**
-* 2017-Present	Developing an Approximate Bayesian Computational framework to infer the genetic architecture of human complex traits using summary statistics from genome-wide association studies
+* 2017-2018	Developing an Approximate Bayesian Computational framework to infer the genetic architecture of human complex traits using summary statistics from genome-wide association studies
 * 2016-2018	Analyzing genetic diversity on the X chromosome and autosomes to determine whether the demographic history of canines has been sex-biased using whole-genome sequence
 * 2015-2017	Developing a likelihood-based approach to understand whether the process of recombination is mutagenic
 * 2014-2016	Assessing whether natural selection has reduced neutral divergence at linked sites
