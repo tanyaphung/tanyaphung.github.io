@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # Welcome!
-I am a bioinformatics scientist working in the field of population genetics. I am passionate about writing codes to analyze large-scale genomic datasets with the ultimate goal of understanding pattern of genetic variation across the genome.
+I am a bioinformatics scientist. I am interested in writing and using computer programs to analyze large-scale genomic datasets with the ultimate goal of understanding genetics variation and human health and diseases.
 
-Currently, I am working with Dr. Melissa Wilson at Arizona State University. I will continue working on population genetics, specifically focusing on sex chromosomes. In addition, I will be applying my bioinformatics skills in analyzing cancer datasets. 
+Currently, I am working with Dr. Melissa Wilson at Arizona State University. I am investigating sex-differences to contribute to better understand human health. 
 
 I earned my Ph.D. in the Bioinformatics program at the University of California, Los Angeles in December 2018. I earned my Bachelor of Science in Biology at the Massachusetts of Technology in June 2014.
 
