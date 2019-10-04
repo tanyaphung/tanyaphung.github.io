@@ -16,6 +16,8 @@ Currently, I am working with Dr. Melissa Wilson at Arizona State University. I a
 I earned my Ph.D. in the Bioinformatics program at the University of California, Los Angeles in December 2018. I earned my Bachelor of Science in Biology at the Massachusetts of Technology in June 2014.
 
 # News:
+**10/03/19** Our work on understanding patterns of X-inactivation in the human placenta is now on bioRxiv: https://www.biorxiv.org/content/10.1101/785105v1
+
 **05/22/19** My PhD work on understanding sex-biased demography in dogs and wolves is now published at Proceeding of Royal Society B: https://royalsocietypublishing.org/doi/10.1098/rspb.2018.1976.
 
 **12/31/18** I started working with Dr. Melissa Wilson at Arizona State University as a post-doc.
