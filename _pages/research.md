@@ -5,10 +5,17 @@ permalink: /research/
 author_profile: true
 ---
 
-# Current research
+# Summary of activities at Xbiome
+# Summay of activities at Ambry Genetics
+# Post-doc research
 My current research focuses on using large-scale genomic data (whole genome, whole exome, and RNA-seq) to understand health and disease
 ## X-inactivation
+![image](https://user-images.githubusercontent.com/10180091/146855168-66a16bf2-862f-48d1-b3d8-25714369233e.png)
+
 ## Neoepitope prediction
+![image](https://user-images.githubusercontent.com/10180091/146855294-e7bfe2f8-e122-470f-914b-0c7b527bd7d1.png)
+
+
 ## Variant calling on the sex chromosome
 
 # PhD Research
