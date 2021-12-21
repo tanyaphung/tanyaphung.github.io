@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 # Welcome!
-I am a bioinformatics scientist. I am interested in writing and using computer programs to analyze large-scale genomic datasets with the ultimate goal of understanding genetics variation and human health and diseases.
+I am a bioinformatics scientist skilled in the analysis of next-generation sequencing data (WGS, WES, and RNA-seq). I am passionate about utilizing bioinformatics as a tool to udnerstand genetic variant, human health, and diseases. 
 
-Currently, I am working with Dr. Melissa Wilson at Arizona State University. I am investigating sex-differences to contribute to better understand human health. 
+Currently I am a bioinformatics scientist at Xbiome where I am investigating the relationship between the tumor neoantigens and the gut microbiota to better treat cancer patients using immunotherapy. 
+
+Previously I was a bioinformatics scientist at Ambry Genetics where I maintained and developed in-house pipelines for somatic variant identification from NGS data. 
+
+Prior to joining Ambry Genetics, I was a post-doc working with Dr. Melissa Wilson at Arizona State University where I investigated sex-differences to contribute to better understand human health. Briefly, I studied the process called X-chromosome-inactivation in the human placenta to understand factors that could contribute to pregnancuy complications. In addition, I developed bioinformatics pipelines to identify tumor neoantigens to study the neoantigens landscape of a patient with Lynch syndrome. 
 
 I earned my Ph.D. in the Bioinformatics program at the University of California, Los Angeles in December 2018. I earned my Bachelor of Science in Biology at the Massachusetts of Technology in June 2014.
 
