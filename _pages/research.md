@@ -7,8 +7,8 @@ author_profile: true
 
 # Summary of activities at Xbiome
 - Developing a bioinformatics pipeline to identify tumor neoantigens from paired tumor-normal WES data from cancer patients
-- Developing a bioinformatics pipeline to map tumor antigens to the patient's microbiome
-- Applying pipelines that I developed to analyze cancer dataset to study neoantigen diversity, crosslink bacterial antigen diversity and association to immunotherapy repsonses
+- Developing a bioinformatics pipeline to map tumor neoantigens to the patient's microbiome
+- Applying pipelines that I developed to analyze cancer dataset to study neoantigen diversity, crosslink bacterial antigen diversity and association to immunotherapy responses
 
 # Summay of activities at Ambry Genetics
 - Processed NGS data from raw *bcl* files to *fastq* files using bcl2fastq and performed quality control of the sequencing data based on mean coverage, number of bases with different amount of coverage, or percent perfect barcode matching
