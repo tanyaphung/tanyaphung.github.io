@@ -6,17 +6,53 @@ author_profile: true
 ---
 
 # Summary of activities at Xbiome
+- Developing a bioinformatics pipeline to identify tumor neoantigens from paired tumor-normal WES data from cancer patients
+- Developing a bioinformatics pipeline to map tumor antigens to the patient's microbiome
+- Applying pipelines that I developed to analyze cancer dataset to study neoantigen diversity, crosslink bacterial antigen diversity and association to immunotherapy repsonses
+
 # Summay of activities at Ambry Genetics
+- Processed NGS data from raw *bcl* files to *fastq* files using bcl2fastq and performed quality control of the sequencing data based on mean coverage, number of bases with different amount of coverage, or percent perfect barcode matching
+- Provided bioinformatics expertise and support to wetlab scientists to troubleshoot failed sequencing runs such as analyzing contamination, on target rate, or DNA fragment sizes
+- Gained knowledge and experience in NGS sequencing from different Illumina machines such as Hiseq, Nextseq, and Novaseq and Roche’s assay for ctDNA
+- Acquired knowledge and experience in sequencing for confirmation of copy number variation such as Sanger sequencing or MLPA
+- Developed a bioinformatics pipeline to identify somatic variants and germline variants from paired tumor-normal whole exome sequence data and from tumor-only whole exome sequence data
+- Developed a bioinformatics pipeline to process RNA-seq data from raw BCL file to gene counts
+
 # Post-doc research
-My current research focuses on using large-scale genomic data (whole genome, whole exome, and RNA-seq) to understand health and disease
+My post-doc research focuses on using NGS data (whole genome, whole exome, and RNA-seq) to understand human health and disease
+
 ## X-inactivation
 ![image](https://user-images.githubusercontent.com/10180091/146855168-66a16bf2-862f-48d1-b3d8-25714369233e.png)
+- Preprint is here: https://www.biorxiv.org/content/10.1101/785105v2.abstract
+- Abstract: One of the X chromosomes in genetic females is silenced by a process called X chromosome inactivation (XCI). Variation in XCI across the placenta may contribute to observed sex differences and variability in pregnancy outcomes. However, XCI has predominantly been studied in human adult tissues. Here we sequenced and analyzed DNA and RNA from two locations from 30 full-term pregnancies. Implementing an allele specific approach to examine XCI, we report evidence that XCI in the human placenta is patchy, with large patches of either silenced maternal or paternal X chromosomes. Further, using similar measurements, we show that this is in contrast to adult tissues, which generally exhibit mosaic X-inactivation, where bulk samples exhibit both maternal and paternal X chromosome expression. Further, by comparing skewed samples in placenta and adult tissues, we identify genes that are uniquely silenced or expressed in the placenta compared to adult tissues highlighting the need for tissue-specific maps of XCI.
 
 ## Neoepitope prediction
 ![image](https://user-images.githubusercontent.com/10180091/146855294-e7bfe2f8-e122-470f-914b-0c7b527bd7d1.png)
-
+- Publications:
+  + https://www.nature.com/articles/s41598-021-90170-1
+  + https://www.nature.com/articles/s41598-020-68939-7
 
 ## Variant calling on the sex chromosome
+- chrX and chrY are homologous at the pseudoautosomal regions (PARs)
+- Consequence: when mapping an XX sample to a default reference genome (includes both chrX and chrY), chrX reads mismap to chrY 
+![image](https://user-images.githubusercontent.com/10180091/147518972-5f7d4b24-a120-45a2-9243-850e06c6c490.png)
+- Solution: use a sex-complement reference genome 
+  + Webster et al. 2019 GigaScience (I was an author on this)
+  + If sample is XX:
+    + Use a reference genome with the Y masked out
+  + If sample is XY:
+    + Use the reference genome with the PARs on the Y masked out
+- Method:
+  + Map samples to a Default reference or a Sex-Complement reference
+- Observation:
+  + Number of variants genotyped on chrX is increased
+![image](https://user-images.githubusercontent.com/10180091/147519057-72495fda-9b3e-424e-8254-af5ca9098abb.png)
+- Developing best practices for variant calling on the sex chromosomes:
+  + Mapping: Map to a Sex-Complement reference
+  + Genotyping:
+    + Joint-call within females and within males
+    + Male on chrX: haploid
+    + GATK default is diploid, which results in heterozygous sites at homologous regions with chrX
 
 # PhD Research
 My research during my PhD centers around leveraging the availability of large-scale genomic data to develop methods and models for the analysis of genetic variation across species. 
