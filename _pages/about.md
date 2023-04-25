@@ -15,7 +15,7 @@ Currenty I am a post-doctoral scientist at the Vrije University in Amsterdam. I 
 
 Previously I was a bioinformatics scientist at Xbiome where I am investigating the relationship between the tumor neoantigens and the gut microbiota to better treat cancer patients using immunotherapy. Before joining Xbiome, I was a bioinformatics scientist at Ambry Genetics where I maintained and developed in-house pipelines for somatic variant identification from NGS data. 
 
-Prior to my brief stink in industry, I was a post-doc working with Dr. Melissa Wilson at Arizona State University where I investigated sex-differences to contribute to better understand human health. Briefly, I studied the process called X-chromosome-inactivation in the human placenta to understand factors that could contribute to pregnancuy complications. In addition, I developed bioinformatics pipelines to identify tumor neoantigens to study the neoantigens landscape of a patient with Lynch syndrome. 
+Prior to my brief stint in industry, I was a post-doc working with Dr. Melissa Wilson at Arizona State University where I investigated sex-differences to contribute to better understand human health. Briefly, I studied the process called X-chromosome-inactivation in the human placenta to understand factors that could contribute to pregnancuy complications. In addition, I developed bioinformatics pipelines to identify tumor neoantigens to study the neoantigens landscape of a patient with Lynch syndrome. 
 
 I earned my Ph.D. in the Bioinformatics program at the University of California, Los Angeles in December 2018. I earned my Bachelor of Science in Biology at the Massachusetts of Technology in June 2014.
 
