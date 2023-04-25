@@ -4,7 +4,6 @@ title: "Research interests"
 permalink: /research/
 author_profile: true
 ---
-[toc]
 
 # Current research actitivies and interests
 - Comparing methods to prioritize cell types relevant to diseases/traits from GWAS variants and scRNAseq data
