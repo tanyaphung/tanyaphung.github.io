@@ -4,6 +4,11 @@ title: "Research interests"
 permalink: /research/
 author_profile: true
 ---
+[toc]
+
+# Current research actitivies and interests
+- Comparing methods to prioritize cell types relevant to diseases/traits from GWAS variants and scRNAseq data
+- Maintaining and developing FUMA, a web-based tool developed by CTG at the VU Amsterdam to functionally annotate GWAS 
 
 # Summary of activities at Xbiome
 - Developing a bioinformatics pipeline to identify tumor neoantigens from paired tumor-normal WES data from cancer patients
