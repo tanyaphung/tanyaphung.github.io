@@ -30,19 +30,18 @@ Work Experience
 * Collaborated R&D scientists within Ambry and with scientists from Sanofi to troubleshoot failed sequencing runs such as analyzing contamination, on target rate, or DNA fragment sizes
 
 **Arizona State University, Tempe, AZ** (2019 - 2021)
-* **Project 1****:** Comparing patterns of X-chromosome inactivation between the placenta and adult tissues
+* **Project 1:** Comparing patterns of X-chromosome inactivation between the placenta and adult tissues
   *  Processed whole transcriptome sequence data and whole exome sequence data of 30 placentas from raw fastq files to mapped bam files and variant-call-format to analyze allele specific expression
   *  Wrote scripts in Python to infer whether a gene on the X chromosome escapes X-inactivation and compared between the placenta and adult tissues in the Genotype-Tissue Expression dataset
   *  Wrote an Rshiny application (https://tanyaphung.shinyapps.io/X-inactivation/) to visualize whether a gene escape X-inactivation
-    
 *  **Project 2:** Analyzing mutational landscape and neoantigens landscape in cancer samples
-  *  Developed a pipeline to genotype somatic mutations in cancer patients by incorporating existing softwares to identify overlap in mutations identified in at least two softwares
-  *  Built upon existing softwares to identify and prioritize neoantigens to be validated as potential vaccines for cancer treatment
-  *  Collaborated with the Mayo Clinic to analyze heterogeneity in mutational landscape and neoantigen diversity from four different cancers of the same Lynch syndrome patient and from different breast cancers
+    *  Developed a pipeline to genotype somatic mutations in cancer patients by incorporating existing softwares to identify overlap in mutations identified in at least two softwares
+    *  Built upon existing softwares to identify and prioritize neoantigens to be validated as potential vaccines for cancer treatment
+    *  Collaborated with the Mayo Clinic to analyze heterogeneity in mutational landscape and neoantigen diversity from four different cancers of the same Lynch syndrome patient and from different breast cancers
     
 *  **Project 3:** Identifying genes that are differentially expressed in idiopathic subglottic stenosis
-  * Processed whole transcriptome sequence data from the trachea (control tissue) and the subglottic (diseased tissue) tissues of 12 patients to identify differentially expressed genes
-  * Collaborated with clinicians at the Mayo Clinic and communicated scientific findings
+    * Processed whole transcriptome sequence data from the trachea (control tissue) and the subglottic (diseased tissue) tissues of 12 patients to identify differentially expressed genes
+    * Collaborated with clinicians at the Mayo Clinic and communicated scientific findings
 
 **University of California, Los Angeles, Los Angeles, CA** (2014 - 2018)
 * Developing an Approximate Bayesian Computational framework to infer the genetic architecture of human complex traits using summary statistics from genome-wide association studies
