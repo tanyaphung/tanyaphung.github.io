@@ -78,11 +78,11 @@ Publications
 
 Grants and Fellowships
 ======
-* 2023    I was awarded €55,000 from Amsterdam Neuroscience to explore how to best incorporate multi-omics data to prioritize genes for functional follow-up
-* 2017		UCLA Biomedical Big Data Training Program Fellowship ($24,000 awarded)
-* 2016		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
-* 2015		Honorable Mention Ford Foundation Predoctoral Fellowship 
-* 2015 		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
+* **2023:**    I was awarded €55,000 from Amsterdam Neuroscience to explore how to best incorporate multi-omics data to prioritize genes for functional follow-up
+* **2017:**		UCLA Biomedical Big Data Training Program Fellowship ($24,000 awarded)
+* **2016:**		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
+* **2015:**		Honorable Mention Ford Foundation Predoctoral Fellowship 
+* **2015:** 		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
 
 Talks
 ======
