@@ -4,6 +4,8 @@ main:
     url: /research/
   - title: "CV"
     url: /cv/
-  - title: "Coding portfolio"
+  - title: "Coding Portfolio"
     url: /portfolio/
+  - title: "Blog Posts"
+    url: /year-archive/
   
