@@ -16,3 +16,14 @@ Below describes my coding projects and links to my Github repository
 
 ## Project 3: Parse GTEx dataset
 * [Github link](https://github.com/tanyaphung/ParseGtex)
+
+## Project 4: rshiny app projects
+- Over the years, I have developed applications in Rshiny to share results from my research. 
+- [Github repo] (https://github.com/tanyaphung/rshiny_tutorial) where I share some notes on Rshiny development. 
+- I have published the following Rshiny apps: 
+1. NIPT analyses: 
+- https://tanyaphung.shinyapps.io/nipt_analyses/
+- [Github link](https://github.com/tanyaphung/nipt_analyses)
+
+2. X chromosome inactivation: 
+- https://tanyaphung.shinyapps.io/X-inactivation/
