@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 # Current research actitivies and interests
-- Comparing methods to prioritize cell types relevant to diseases/traits from GWAS variants and scRNAseq data
-- Maintaining and developing FUMA, a web-based tool developed by CTG at the VU Amsterdam to functionally annotate GWAS 
+- Analyzing single-cell transcriptomic data from 30 human brain studies and implementing computational methods to identify disease-relevant cell types
+- Comparing 11 computational methods to prioritize cell types relevant to diseases/traits from GWAS variants and scRNAseq data
+- Maintaining and developing the front-end and back-end of FUMA, a web-platform used to functionally annotate summary statistics from genome-wide association studies
+- Mapping GWAS variants to genes using multi-omics quantitative trait loci 
 
 # Summary of activities at Xbiome
 - Developing a bioinformatics pipeline to identify tumor neoantigens from paired tumor-normal WES data from cancer patients

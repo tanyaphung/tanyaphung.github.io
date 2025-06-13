@@ -27,3 +27,6 @@ Below describes my coding projects and links to my Github repository
 
 2. X chromosome inactivation: 
 - [https://tanyaphung.shinyapps.io/X-inactivation/](https://tanyaphung.shinyapps.io/X-inactivation/)
+
+3. scRNAseq viewer: 
+- [https://tanyaphung.shinyapps.io/scrna_category_rshiny/](https://tanyaphung.shinyapps.io/scrna_category_rshiny/)

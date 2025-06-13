@@ -17,27 +17,32 @@ Education
 Work Experience
 ======
 **Vrije Universiteit Amsterdam, the Netherlands** (2022 - Present)
-* Generating a cell type atlas to investigate cell types that are relevant to traits and diseases by linking single-cell transcriptomics datasets and genetic variants from genome-wide association studies (GWAS)
-* Incorporating a gene prioritization to FUMA, a web-platform that allows researchers all over the world to functionally annotate summary statistics from genome-wide association studies, to allow researchers with little bioinformatics skills and/or computational resources to explore their GWAS results
+* Analyzing single-cell transcriptomic data from 30 human brain studies and implementing computational methods to identify disease-relevant cell types
+* Maintaining and developing the front-end and back-end of FUMA, a web-platform used to functionally annotate summary statistics from genome-wide association studies
+* Mapping GWAS variants to genes using multi-omics quantitative trait loci 
+
 
 **Xbiome, Boston, MA** (2021 - 2022)
-* Developed a bioinformatics pipeline to identify tumor neoantigens from paired tumor-normal WES data from cancer patients
+* Developed a bioinformatics pipeline to identify tumor neoantigens from paired tumor-normal whole exome sequencing data from cancer patients
 * Developed a bioinformatics pipeline to map tumor neoantigens to the patient’s microbiome to identify bacterial antigens that interact with the immune system
-* Applied pipelines that I developed to analyze cancer datasets to study neoantigendiversity, bacterial antigen diversity and association to immunotherapy responses
+* Applied pipelines that I developed to analyze cancer datasets to study neoantigen diversity, bacterial antigen diversity and association to immunotherapy responses
+
 
 **Ambry Genetics, Aliso Viejo, CA** (2021 - 2021)
-* Developed bioinformatics pipelines to process NGS data from raw BCL files to fastq files and to identify variants from NGS data
+* Developed bioinformatics pipelines to process next-generation sequencing data from raw BCL files to fastq files and to identify variants
 * Collaborated R&D scientists within Ambry and with scientists from Sanofi to troubleshoot failed sequencing runs such as analyzing contamination, on target rate, or DNA fragment sizes
+
 
 **Arizona State University, Tempe, AZ** (2019 - 2021)
 * **Project 1:** Comparing patterns of X-chromosome inactivation between the placenta and adult tissues
-  *  Processed whole transcriptome sequence data and whole exome sequence data of 30 placentas from raw fastq files to mapped bam files and variant-call-format to analyze allele specific expression
-  *  Wrote scripts in Python to infer whether a gene on the X chromosome escapes X-inactivation and compared between the placenta and adult tissues in the Genotype-Tissue Expression dataset
-  *  Wrote an Rshiny application (https://tanyaphung.shinyapps.io/X-inactivation/) to visualize whether a gene escape X-inactivation
+    * Processed whole transcriptome sequence data and whole exome sequence data of 30 placentas from raw fastq files to mapped bam files and variant-call-format to analyze allele specific expression 
+    * Developed an algorithm to test whether a gene on the X chromosome escapes X-inactivation and compared between the placenta and adult tissues in the Genotype-Tissue Expression dataset
+    * Wrote an Rshiny application (https://tanyaphung.shinyapps.io/X-inactivation/) to visualize whether a gene escape X-inactivation
+
 *  **Project 2:** Analyzing mutational landscape and neoantigens landscape in cancer samples
-    *  Developed a pipeline to genotype somatic mutations in cancer patients by incorporating existing softwares to identify overlap in mutations identified in at least two softwares
-    *  Built upon existing softwares to identify and prioritize neoantigens to be validated as potential vaccines for cancer treatment
-    *  Collaborated with the Mayo Clinic to analyze heterogeneity in mutational landscape and neoantigen diversity from four different cancers of the same Lynch syndrome patient and from different breast cancers
+    *	Developed a pipeline to genotype somatic mutations in cancer patients by incorporating existing methods to identify overlap in mutations identified in at least two methods
+    *	Built upon existing tools to identify and prioritize neoantigens to be validated as potential vaccines for cancer treatment
+    *	Collaborated with the Mayo Clinic to analyze heterogeneity in mutational landscape and neoantigen diversity from four different cancers of the same Lynch syndrome patient and from different breast cancers
     
 *  **Project 3:** Identifying genes that are differentially expressed in idiopathic subglottic stenosis
     * Processed whole transcriptome sequence data from the trachea (control tissue) and the subglottic (diseased tissue) tissues of 12 patients to identify differentially expressed genes
@@ -62,6 +67,9 @@ Work Experience
 
 Publications
 ======
+16. Savage, J. E., Barr, P. B., **Phung, T.**, Lee, Y. H., Zhang, Y., McCutcheon, V. V., Ge, T., Smoller, J. W., Davis, L. K., Meyers, J., Porjesz, B., Posthuma, D., Mallard, T. T., & Sanchez-Roige, S. (2024). Genetic heterogeneity across dimensions of alcohol use behaviors. American Journal of Psychiatry, 181(11), 1006–1017. https://doi.org/10.1176/appi.ajp.20231055
+15. Inkster, A. M., Matthews, A. M., **Phung, T. N.**, Plaisier, S. B., Wilson, M. A., Brown, C. J., & Robinson, W. P. (2025). Breaking rules: the complex relationship between DNA methylation and X-chromosome inactivation in the human placenta. Biology of Sex Differences, 16(1). https://doi.org/10.1186/s13293-025-00696-6
+14. Olney, K. C., Plaisier, S. B., **Phung, T. N.**, Silasi, M., Perley, L., O’Bryan, J., Ramirez, L., Kliman, H. J., & Wilson, M. A. (2022). Sex differences in early and term placenta are conserved in adult tissues. Biology of Sex Differences, 13(1). https://doi.org/10.1186/s13293-022-00470-y
 13. **Phung, T. N.**, Olney, K. C., Pinto, B. J., Silasi, M., Perley, L., O’Bryan, J. P., Kliman, H. J., & Wilson, M. L. (2022). X chromosome inactivation in the human placenta is patchy and distinct from adult tissues. Human Genetics and Genomics Advances, 3(3), 100121. https://doi.org/10.1016/j.xhgg.2022.100121
 12. Borden E.S., **Phung T.N.** et al (2021) Penalized regression analysis identifies features of the peptide: MHC class I interaction and mRNA expression as key to prioritizing neoantigen immunogenicity. The Journal of Immunology.
 11. **Phung T.N.** et al. (2021) Unique evolutionary trajectories of breast cancers with distinct genomic and spatial heterogeneity. Scientific reports, Volume 11, Issue 1.
@@ -78,11 +86,12 @@ Publications
 
 Grants and Fellowships
 ======
-* **2023:**    I was awarded €55,000 from Amsterdam Neuroscience to explore how to best incorporate multi-omics data to prioritize genes for functional follow-up
+* **2024:**   I was awarded €50,000 from the BRAINSCAPES consortium valorization grant to document FUMA for Open Science Dissemination 
+* **2023:**   I was awarded €55,000 from Amsterdam Neuroscience to explore how to best incorporate multi-omics data to prioritize genes for functional follow-up
 * **2017:**		UCLA Biomedical Big Data Training Program Fellowship ($24,000 awarded)
 * **2016:**		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
 * **2015:**		Honorable Mention Ford Foundation Predoctoral Fellowship 
-* **2015:** 		UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
+* **2015:** 	UCLA System and Integrative Biology Training Program Fellowship ($23,000 awarded)
 
 Talks
 ======
