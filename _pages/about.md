@@ -13,7 +13,7 @@ I am a research scientist/bioinformatician skilled in the analysis of large-scal
 
 Currenty I am a post-doctoral scientist at the Vrije University in Amsterdam. I am working on undertanding relevant cell types for traits/diseasese from GWAS variants and scRNAseq data. I am also part of the support team for FUMA (https://fuma.ctglab.nl/), which is an online tool to perform functional annotation post-GWAS. 
 
-Previously I was a bioinformatics scientist at Xbiome where I am investigating the relationship between the tumor neoantigens and the gut microbiota to better treat cancer patients using immunotherapy. Before joining Xbiome, I was a bioinformatics scientist at Ambry Genetics where I maintained and developed in-house pipelines for somatic variant identification from NGS data. 
+Previously I was a bioinformatics scientist at Xbiome where I was investigating the relationship between the tumor neoantigens and the gut microbiota to better treat cancer patients using immunotherapy. Before joining Xbiome, I was a bioinformatics scientist at Ambry Genetics where I maintained and developed in-house pipelines for somatic variant identification from NGS data. 
 
 Prior to my brief stint in industry, I was a post-doc working with Dr. Melissa Wilson at Arizona State University where I investigated sex-differences to contribute to better understand human health. Briefly, I studied the process called X-chromosome-inactivation in the human placenta to understand factors that could contribute to pregnancuy complications. In addition, I developed bioinformatics pipelines to identify tumor neoantigens to study the neoantigens landscape of a patient with Lynch syndrome. 
 
