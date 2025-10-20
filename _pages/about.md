@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Welcome!
-I am a bioinformatics scientist skilled in the analysis of next-generation sequencing data (whole genome sequencing, exome sequencing, bulk RNAseq, and single-cell RNAseq). Broadly, I am passionate about utilizing bioinformatics as a tool to understand genetic variant, human health, and diseases. More speciifcally, I am interested in sex differences from the angle of genetics and genomics. Topics of great interest to me that I would love to pursue long-terms are: genetics underlying neurodevelopmental disorders, X chromosome inactivation, connections between the placenta and pregnancy complications and/or neurodevelopmental disorders. 
+I am a research scientist/bioinformatician skilled in the analysis of next-generation sequencing data (whole genome sequencing, exome sequencing, bulk RNAseq, and single-cell RNAseq). Broadly, I am passionate about utilizing bioinformatics as a tool to understand genetic variant, human health, and diseases. More speciifcally, I am interested in sex differences from the angle of genetics and genomics. Topics of great interest to me that I would love to pursue long-terms are: genetics underlying neurodevelopmental disorders, X chromosome inactivation, connections between the placenta and pregnancy complications and/or neurodevelopmental disorders. 
 
 Currenty I am a post-doctoral scientist at the Vrije University in Amsterdam. I am working on undertanding relevant cell types for traits/diseasese from GWAS variants and scRNAseq data. I am also part of the support team for FUMA (https://fuma.ctglab.nl/), which is an online tool to perform functional annotation post-GWAS. 
 

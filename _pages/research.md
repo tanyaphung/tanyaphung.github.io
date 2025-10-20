@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 # Current research actitivies and interests
-- Analyzing single-cell transcriptomic data from 30 human brain studies and implementing computational methods to identify disease-relevant cell types
-- Comparing 11 computational methods to prioritize cell types relevant to diseases/traits from GWAS variants and scRNAseq data
+- Systematically processed publicly available single-cell transcriptomic data from 36 human brain studies and implementing computational methods to identify disease-associated cell types
 - Maintaining and developing the front-end and back-end of FUMA, a web-platform used to functionally annotate summary statistics from genome-wide association studies
 - Mapping GWAS variants to genes using multi-omics quantitative trait loci 
 
@@ -16,7 +15,7 @@ author_profile: true
 - Developing a bioinformatics pipeline to map tumor neoantigens to the patient's microbiome
 - Applying pipelines that I developed to analyze cancer dataset to study neoantigen diversity, crosslink bacterial antigen diversity and association to immunotherapy responses
 
-# Summay of activities at Ambry Genetics
+# Summary of activities at Ambry Genetics
 - Processed NGS data from raw *bcl* files to *fastq* files using bcl2fastq and performed quality control of the sequencing data based on mean coverage, number of bases with different amount of coverage, or percent perfect barcode matching
 - Provided bioinformatics expertise and support to wetlab scientists to troubleshoot failed sequencing runs such as analyzing contamination, on target rate, or DNA fragment sizes
 - Gained knowledge and experience in NGS sequencing from different Illumina machines such as Hiseq, Nextseq, and Novaseq and Roche’s assay for ctDNA
@@ -29,8 +28,7 @@ My post-doc research focuses on using NGS data (whole genome, whole exome, and R
 
 ## X-inactivation
 ![image](https://user-images.githubusercontent.com/10180091/146855168-66a16bf2-862f-48d1-b3d8-25714369233e.png)
-- Preprint is here: https://www.biorxiv.org/content/10.1101/785105v2.abstract
-- Abstract: One of the X chromosomes in genetic females is silenced by a process called X chromosome inactivation (XCI). Variation in XCI across the placenta may contribute to observed sex differences and variability in pregnancy outcomes. However, XCI has predominantly been studied in human adult tissues. Here we sequenced and analyzed DNA and RNA from two locations from 30 full-term pregnancies. Implementing an allele specific approach to examine XCI, we report evidence that XCI in the human placenta is patchy, with large patches of either silenced maternal or paternal X chromosomes. Further, using similar measurements, we show that this is in contrast to adult tissues, which generally exhibit mosaic X-inactivation, where bulk samples exhibit both maternal and paternal X chromosome expression. Further, by comparing skewed samples in placenta and adult tissues, we identify genes that are uniquely silenced or expressed in the placenta compared to adult tissues highlighting the need for tissue-specific maps of XCI.
+- Publication: https://www.cell.com/hgg-advances/fulltext/S2666-2477(22)00037-9
 
 ## Neoepitope prediction
 ![image](https://user-images.githubusercontent.com/10180091/146855294-e7bfe2f8-e122-470f-914b-0c7b527bd7d1.png)
@@ -39,6 +37,7 @@ My post-doc research focuses on using NGS data (whole genome, whole exome, and R
   + https://www.nature.com/articles/s41598-020-68939-7
 
 ## Variant calling on the sex chromosome
+- Preprint: https://pmc.ncbi.nlm.nih.gov/articles/PMC12190741/
 - chrX and chrY are homologous at the pseudoautosomal regions (PARs)
 - Consequence: when mapping an XX sample to a default reference genome (includes both chrX and chrY), chrX reads mismap to chrY 
 ![image](https://user-images.githubusercontent.com/10180091/147518972-5f7d4b24-a120-45a2-9243-850e06c6c490.png)
