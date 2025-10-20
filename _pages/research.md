@@ -6,14 +6,16 @@ author_profile: true
 ---
 
 # Current research actitivies and interests
-- Systematically processed publicly available single-cell transcriptomic data from 36 human brain studies and implementing computational methods to identify disease-associated cell types
+- Ongoing project: Currently, I am investigating cell types that are associated with complex traits, with a focus on brain related phenotypes. I systematically processed publicly available single-cell transcriptomic data from 36 human brain studies and implemented computational methods to identify disease-associated cell types
+  - [Github page](https://github.com/tanyaphung/scrnaseq_viewer)
+  - Preprint: coming soon
 - Maintaining and developing the front-end and back-end of FUMA, a web-platform used to functionally annotate summary statistics from genome-wide association studies
 - Mapping GWAS variants to genes using multi-omics quantitative trait loci 
 
 # Summary of activities at Xbiome
-- Developing a bioinformatics pipeline to identify tumor neoantigens from paired tumor-normal WES data from cancer patients
-- Developing a bioinformatics pipeline to map tumor neoantigens to the patient's microbiome
-- Applying pipelines that I developed to analyze cancer dataset to study neoantigen diversity, crosslink bacterial antigen diversity and association to immunotherapy responses
+- Developed a bioinformatics pipeline to identify tumor neoantigens from paired tumor-normal WES data from cancer patients
+- Developed a bioinformatics pipeline to map tumor neoantigens to the patient's microbiome
+- Applied pipelines that I developed to analyze cancer dataset to study neoantigen diversity, crosslink bacterial antigen diversity and association to immunotherapy responses
 
 # Summary of activities at Ambry Genetics
 - Processed NGS data from raw *bcl* files to *fastq* files using bcl2fastq and performed quality control of the sequencing data based on mean coverage, number of bases with different amount of coverage, or percent perfect barcode matching
