@@ -17,7 +17,7 @@ Education
 Work Experience
 ======
 **Vrije Universiteit Amsterdam, the Netherlands** (2022 - Present)
-* Analyzing single-cell transcriptomic data from 30 human brain studies and implementing computational methods to identify disease-relevant cell types
+* Systematically processed publicly available single-cell transcriptomic data from 36 human brain studies and implementing computational methods to identify disease-associated cell types
 * Maintaining and developing the front-end and back-end of FUMA, a web-platform used to functionally annotate summary statistics from genome-wide association studies
 * Mapping GWAS variants to genes using multi-omics quantitative trait loci 
 

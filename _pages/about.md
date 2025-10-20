@@ -19,6 +19,8 @@ Prior to my brief stint in industry, I was a post-doc working with Dr. Melissa W
 
 I earned my Ph.D. in the Bioinformatics program at the University of California, Los Angeles in December 2018. I earned my Bachelor of Science in Biology at the Massachusetts of Technology in June 2014.
 
+Contact information: if you would like to get into contact with me, my email address is: {firstname}.n.{lastname} [at] gmail.com. 
+
 # News:
 **05/06/24** I will be attending the Organization for the Study of Sex Difference conference in Bergen, Norway.
 
