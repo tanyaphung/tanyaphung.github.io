@@ -7,6 +7,7 @@ author_profile: true
 
 # Current research actitivies and interests
 - Ongoing project: Currently, I am investigating cell types that are associated with complex traits, with a focus on brain related phenotypes. I systematically processed publicly available single-cell transcriptomic data from 36 human brain studies and implemented computational methods to identify disease-associated cell types
+  - ![image](images/gwas_celltype_schematic.png)
   - [Github page](https://github.com/tanyaphung/scrnaseq_viewer)
   - Preprint: coming soon
 - Maintaining and developing the front-end and back-end of FUMA, a web-platform used to functionally annotate summary statistics from genome-wide association studies
