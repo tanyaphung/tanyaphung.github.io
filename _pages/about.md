@@ -22,6 +22,9 @@ I earned my Ph.D. in the Bioinformatics program at the University of California,
 Contact information: if you would like to get into contact with me, my email address is: {firstname}.n.{lastname} [at] gmail.com. 
 
 # News:
+
+**12/09/24** My work on identifying putatively associated cell types for 14 brain-related traits is now available as a preprint: https://www.biorxiv.org/content/10.64898/2025.12.05.692533v1
+
 **05/06/24** I will be attending the Organization for the Study of Sex Difference conference in Bergen, Norway.
 
 **04/25/23** Our work on undertanding patterns of X-inactivation in the human placenta is now published on HGG Advances: https://www.sciencedirect.com/science/article/pii/S2666247722000379
