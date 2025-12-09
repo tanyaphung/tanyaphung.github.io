@@ -37,7 +37,7 @@ Work Experience
 * **Project 1:** Comparing patterns of X-chromosome inactivation between the placenta and adult tissues
     * Processed whole transcriptome sequence data and whole exome sequence data of 30 placentas from raw fastq files to mapped bam files and variant-call-format to analyze allele specific expression 
     * Developed an algorithm to test whether a gene on the X chromosome escapes X-inactivation and compared between the placenta and adult tissues in the Genotype-Tissue Expression dataset
-    * Wrote an Rshiny application (https://tanyaphung.shinyapps.io/X-inactivation/) to visualize whether a gene escape X-inactivation
+    * Wrote an Rshiny application (<https://tanyaphung.shinyapps.io/X-inactivation/>) to visualize whether a gene escape X-inactivation
 
 *  **Project 2:** Analyzing mutational landscape and neoantigens landscape in cancer samples
     *	Developed a pipeline to genotype somatic mutations in cancer patients by incorporating existing methods to identify overlap in mutations identified in at least two methods

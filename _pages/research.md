@@ -8,11 +8,11 @@ author_profile: true
 # Current research actitivies and interests
 - Ongoing project: Currently, I am investigating cell types that are associated with complex traits, with a focus on brain related phenotypes. I systematically processed publicly available single-cell transcriptomic data from 36 human brain studies and implemented computational methods to identify disease-associated cell types
   - ![image](/images/gwas_celltype_schematic.png)
-  - Preprint: https://www.biorxiv.org/content/10.64898/2025.12.05.692533v1
+  - Preprint: <https://www.biorxiv.org/content/10.64898/2025.12.05.692533v1>
   - Github pages: 
-    - https://github.com/tanyaphung/scrnaseq_viewer
-    - https://github.com/tanyaphung/brain_celltypes
-  - Rshiny app: https://tanyaphung.shinyapps.io/scrna_category_rshiny/
+    - <https://github.com/tanyaphung/scrnaseq_viewer>
+    - <https://github.com/tanyaphung/brain_celltypes>
+  - Rshiny app: <https://tanyaphung.shinyapps.io/scrna_category_rshiny/>
 
 - Maintaining and developing the front-end and back-end of FUMA, a web-platform used to functionally annotate summary statistics from genome-wide association studies
 - Mapping GWAS variants to genes using multi-omics quantitative trait loci 
@@ -35,16 +35,16 @@ My post-doc research focuses on using NGS data (whole genome, whole exome, and R
 
 ## X-inactivation
 ![image](https://user-images.githubusercontent.com/10180091/146855168-66a16bf2-862f-48d1-b3d8-25714369233e.png)
-- Publication: https://www.cell.com/hgg-advances/fulltext/S2666-2477(22)00037-9
+- Publication: <https://www.cell.com/hgg-advances/fulltext/S2666-2477(22)00037-9>
 
 ## Neoepitope prediction
 ![image](https://user-images.githubusercontent.com/10180091/146855294-e7bfe2f8-e122-470f-914b-0c7b527bd7d1.png)
 - Publications:
-  + https://www.nature.com/articles/s41598-021-90170-1
-  + https://www.nature.com/articles/s41598-020-68939-7
+  + <https://www.nature.com/articles/s41598-021-90170-1>
+  + <https://www.nature.com/articles/s41598-020-68939-7>
 
 ## Variant calling on the sex chromosome
-- Preprint: https://pmc.ncbi.nlm.nih.gov/articles/PMC12190741/
+- Preprint: <https://pmc.ncbi.nlm.nih.gov/articles/PMC12190741/>
 - chrX and chrY are homologous at the pseudoautosomal regions (PARs)
 - Consequence: when mapping an XX sample to a default reference genome (includes both chrX and chrY), chrX reads mismap to chrY 
 ![image](https://user-images.githubusercontent.com/10180091/147518972-5f7d4b24-a120-45a2-9243-850e06c6c490.png)
